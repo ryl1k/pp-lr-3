@@ -1,0 +1,54 @@
+=== New Battle Log ===
+=====================================
+AssaultDroid{ability=30% to double move} name='ASLT1', health=100, damage=25}
+TankDroid{armor=20} name='Guardian', health=150, damage=15}
+Battle Start: ASLT1 vs Guardian
+======================================
+Round 1:
+ASLT1 takes turn against Guardian
+Guardian takes turn against ASLT1
+Status after round 1:
+AssaultDroid{ability=30% to double move} name='ASLT1', health=85, damage=25}
+TankDroid{armor=10} name='Guardian', health=135, damage=15}
+======================================
+======================================
+Round 2:
+ASLT1 takes turn against Guardian
+Guardian takes turn against ASLT1
+Status after round 2:
+AssaultDroid{ability=30% to double move} name='ASLT1', health=70, damage=25}
+TankDroid{armor=5} name='Guardian', health=120, damage=15}
+======================================
+======================================
+Round 3:
+ASLT1 takes turn against Guardian
+Guardian takes turn against ASLT1
+Status after round 3:
+AssaultDroid{ability=30% to double move} name='ASLT1', health=55, damage=25}
+TankDroid{armor=0} name='Guardian', health=100, damage=15}
+======================================
+======================================
+Round 4:
+ASLT1 takes turn against Guardian
+Guardian takes turn against ASLT1
+Status after round 4:
+AssaultDroid{ability=30% to double move} name='ASLT1', health=40, damage=25}
+TankDroid{armor=0} name='Guardian', health=75, damage=15}
+======================================
+======================================
+Round 5:
+ASLT1 takes turn against Guardian
+Guardian takes turn against ASLT1
+Status after round 5:
+AssaultDroid{ability=30% to double move} name='ASLT1', health=25, damage=25}
+TankDroid{armor=0} name='Guardian', health=50, damage=15}
+======================================
+======================================
+Round 6:
+ASLT1 takes turn against Guardian
+Guardian is destroyed!
+Status after round 6:
+AssaultDroid{ability=30% to double move} name='ASLT1', health=25, damage=25}
+TankDroid{armor=0} name='Guardian', health=0, damage=15}
+======================================
+Battle Over!

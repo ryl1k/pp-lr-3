@@ -1,0 +1,54 @@
+=== New Battle Log ===
+=====================================
+AssaultDroid{ability=30% to double move} name='Destroyer', health=100, damage=25}
+TankDroid{armor=20} name='Guardian', health=150, damage=15}
+Battle Start: Destroyer vs Guardian
+======================================
+Round 1:
+Destroyer takes turn against Guardian
+Guardian takes turn against Destroyer
+Status after round 1:
+AssaultDroid{ability=30% to double move} name='Destroyer', health=85, damage=25}
+TankDroid{armor=15} name='Guardian', health=145, damage=15}
+======================================
+======================================
+Round 2:
+Destroyer takes turn against Guardian
+Guardian takes turn against Destroyer
+Status after round 2:
+AssaultDroid{ability=30% to double move} name='Destroyer', health=70, damage=25}
+TankDroid{armor=10} name='Guardian', health=135, damage=15}
+======================================
+======================================
+Round 3:
+Destroyer takes turn against Guardian
+Guardian takes turn against Destroyer
+Status after round 3:
+AssaultDroid{ability=30% to double move} name='Destroyer', health=55, damage=25}
+TankDroid{armor=0} name='Guardian', health=100, damage=15}
+======================================
+======================================
+Round 4:
+Destroyer takes turn against Guardian
+Guardian takes turn against Destroyer
+Status after round 4:
+AssaultDroid{ability=30% to double move} name='Destroyer', health=40, damage=25}
+TankDroid{armor=0} name='Guardian', health=50, damage=15}
+======================================
+======================================
+Round 5:
+Destroyer takes turn against Guardian
+Guardian takes turn against Destroyer
+Status after round 5:
+AssaultDroid{ability=30% to double move} name='Destroyer', health=25, damage=25}
+TankDroid{armor=0} name='Guardian', health=25, damage=15}
+======================================
+======================================
+Round 6:
+Destroyer takes turn against Guardian
+Guardian is destroyed!
+Status after round 6:
+AssaultDroid{ability=30% to double move} name='Destroyer', health=25, damage=25}
+TankDroid{armor=0} name='Guardian', health=0, damage=15}
+======================================
+Battle Over!

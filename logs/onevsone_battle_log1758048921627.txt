@@ -1,0 +1,22 @@
+=== New Battle Log ===
+=====================================
+SniperDroid{ability=50% to ignore armor} name='3', health=50, damage=50}
+AssaultDroid{ability=30% to double move} name='Destroyer', health=100, damage=25}
+Battle Start: 3 vs Destroyer
+======================================
+Round 1:
+3 takes turn against Destroyer
+Destroyer takes turn against 3
+Status after round 1:
+SniperDroid{ability=50% to ignore armor} name='3', health=25, damage=50}
+AssaultDroid{ability=30% to double move} name='Destroyer', health=50, damage=25}
+======================================
+======================================
+Round 2:
+3 takes turn against Destroyer
+Destroyer is destroyed!
+Status after round 2:
+SniperDroid{ability=50% to ignore armor} name='3', health=25, damage=50}
+AssaultDroid{ability=30% to double move} name='Destroyer', health=0, damage=25}
+======================================
+Battle Over!

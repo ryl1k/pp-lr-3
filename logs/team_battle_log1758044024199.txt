@@ -1,0 +1,33 @@
+=== New Battle Log ===
+=====================================
+TEAM BATTLE START
+Team 1:
+  TankDroid{armor=20} name='Guardian', health=150, damage=15}
+  SniperDroid{ability=50% to ignore armor} name='Ghost', health=50, damage=50}
+Team 2:
+  SniperDroid{ability=50% to ignore armor} name='Ghost', health=50, damage=50}
+  SniperDroid{ability=50% to ignore armor} name='Ghost', health=50, damage=50}
+=====================================
+Round 1:
+Guardian attacks Ghost
+Ghost attacks Ghost
+Ghost destroyed!
+Ghost attacks Ghost
+Ghost destroyed!
+End of round 1
+Round 2:
+Guardian attacks Ghost
+Ghost attacks Guardian
+End of round 2
+Round 3:
+Guardian attacks Ghost
+Ghost attacks Guardian
+End of round 3
+Round 4:
+Guardian attacks Ghost
+Ghost attacks Guardian
+End of round 4
+Round 5:
+Guardian attacks Ghost
+Ghost destroyed!
+Team Battle Over!
