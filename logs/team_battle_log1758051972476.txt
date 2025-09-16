@@ -1,0 +1,43 @@
+=== New Battle Log ===
+=====================================
+TEAM BATTLE START
+Team 1:
+  AssaultDroid{ability=30% to double move} name='Destroyer', health=100, damage=25}
+  AssaultDroid{ability=30% to double move} name='Destroyer', health=100, damage=25}
+Team 2:
+  TankDroid{armor=20} name='Guardian', health=150, damage=15}
+  TankDroid{armor=20} name='Guardian', health=150, damage=15}
+=====================================
+Round 1:
+Destroyer attacks Guardian
+Destroyer attacks Guardian
+Guardian attacks Destroyer
+Guardian attacks Destroyer
+End of round 1
+Round 2:
+Destroyer attacks Guardian
+Destroyer attacks Guardian
+Guardian attacks Destroyer
+Guardian attacks Destroyer
+End of round 2
+Round 3:
+Destroyer attacks Guardian
+Destroyer attacks Guardian
+Guardian attacks Destroyer
+Guardian attacks Destroyer
+End of round 3
+Round 4:
+Destroyer attacks Guardian
+Guardian destroyed!
+Destroyer attacks Guardian
+Guardian attacks Destroyer
+End of round 4
+Round 5:
+Destroyer attacks Guardian
+Destroyer attacks Guardian
+Guardian attacks Destroyer
+End of round 5
+Round 6:
+Destroyer attacks Guardian
+Guardian destroyed!
+Team Battle Over!

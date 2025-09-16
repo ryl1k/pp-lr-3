@@ -1,0 +1,22 @@
+=== New Battle Log ===
+=====================================
+SniperDroid{ability=50% to ignore armor} name='sniper droid test', health=50, damage=50}
+HealerDroid{healAmount=25} name='Medic', health=75, damage=10}
+Battle Start: sniper droid test vs Medic
+======================================
+Round 1:
+sniper droid test takes turn against Medic
+Medic takes turn against sniper droid test
+Status after round 1:
+SniperDroid{ability=50% to ignore armor} name='sniper droid test', health=40, damage=50}
+HealerDroid{healAmount=25} name='Medic', health=25, damage=10}
+======================================
+======================================
+Round 2:
+sniper droid test takes turn against Medic
+Medic is destroyed!
+Status after round 2:
+SniperDroid{ability=50% to ignore armor} name='sniper droid test', health=40, damage=50}
+HealerDroid{healAmount=25} name='Medic', health=-25, damage=10}
+======================================
+Battle Over!
