@@ -1,8 +1,5 @@
 package droids;
 
-// Особливості: Здоров'я 50, Урон 50
-// Здібність: Влучний постріл - +20 урону
-
 
 public class SniperDroid extends Droid {
     private double accuracy;

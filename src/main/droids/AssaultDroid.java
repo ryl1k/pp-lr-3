@@ -1,7 +1,5 @@
 package droids;
 
-// Особливості: Здоров'я: 100, Урон: 20
-// Має здібність з шансом 30% зробити подвійний хід (20% при кожному наступному провалі)
 
 public class AssaultDroid extends Droid {
     private double abilityChance;

@@ -1,6 +1,5 @@
 package droids;
 
-// Основний клас дроіда, який містить загальні властивості та методи для всіх типів дроїдів
 
 public class Droid {
     private String name;

@@ -33,7 +33,7 @@ public class BattleSaver implements AutoCloseable {
         try {
             writer.write(message);
             writer.write('\n');
-            writer.flush(); // для консольної ЛР ок
+            writer.flush(); // для консолі
         } catch (IOException e) {
             throw new RuntimeException("Cannot write to log: " + path, e);
         }
@@ -49,7 +49,7 @@ public class BattleSaver implements AutoCloseable {
         }
     }
 
-    // зручно: автоматично робити ім'я з міткою часу
+    // зручно автоматично робити ім'я з міткою часу
     public static BattleSaver createWithTimestamp(String dir) {
         String name = "battle_" + System.currentTimeMillis() + ".txt";
         return new BattleSaver(Paths.get(dir, name));

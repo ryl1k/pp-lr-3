@@ -83,7 +83,7 @@ public class BattleLoader {
         );
 
         if (files != null) {
-            // Sort by modification date (newest first)
+            // новіші спочатку
             java.util.Arrays.sort(files, (a, b) -> Long.compare(b.lastModified(), a.lastModified()));
 
             for (File file : files) {
