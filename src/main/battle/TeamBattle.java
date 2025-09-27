@@ -1,9 +1,9 @@
-package battle;
+package main.battle;
 
-import droids.Droid;
-import droids.HealerDroid;
-import io.BattleSaver;
-import io.BattleVisualizer;
+import main.droids.Droid;
+import main.droids.HealerDroid;
+import main.io.BattleSaver;
+import main.io.BattleVisualizer;
 import java.util.ArrayList;
 import java.util.List;
 

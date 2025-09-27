@@ -1,6 +1,6 @@
-package io;
+package main.io;
 
-import droids.Droid;
+import main.droids.Droid;
 
 public class BattleVisualizer {
 

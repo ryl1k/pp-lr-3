@@ -1,4 +1,4 @@
-package droids;
+package main.droids;
 
 
 public class AssaultDroid extends Droid {

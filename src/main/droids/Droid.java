@@ -1,4 +1,4 @@
-package droids;
+package main.droids;
 
 
 public class Droid {

@@ -1,9 +1,8 @@
-package battle;
+package main.battle;
 
-import droids.Droid;
-import droids.HealerDroid;
-import io.BattleSaver;
-import io.BattleVisualizer;
+import main.droids.Droid;
+import main.io.BattleSaver;
+import main.io.BattleVisualizer;
 
 public class OneVsOne implements Battle {
     private Droid d1;

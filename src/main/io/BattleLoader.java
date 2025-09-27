@@ -1,4 +1,4 @@
-package io;
+package main.io;
 
 import java.io.IOException;
 import java.nio.file.*;
@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.File;
+import main.io.BattleVisualizer;
 
 public class BattleLoader {
 

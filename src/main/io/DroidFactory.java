@@ -1,6 +1,6 @@
-package io;
+package main.io;
 
-import droids.*;
+import main.droids.*;
 import java.util.Scanner;
 
 public class DroidFactory {

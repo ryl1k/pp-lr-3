@@ -1,8 +1,8 @@
 package main;
 
-import droids.*;
-import battle.*;
-import io.*;
+import main.droids.*;
+import main.battle.*;
+import main.io.*;
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;
